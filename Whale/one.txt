@@ -6,3 +6,5 @@
 //windows --hasee
 
 window add 1
+
+cc
